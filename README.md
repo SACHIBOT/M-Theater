@@ -48,3 +48,7 @@ The database schema consists of three main tables:
 ## Note
 
 - This project was created for educational purposes, to learn how to work with PHP, HTML, and manage a database.
+
+![dashboard1](https://telegra.ph/file/8c2d84deb7d541fd46881.jpg)
+
+![dashboard1](https://telegra.ph/file/92abcca941b536804d261.jpg)
