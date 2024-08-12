@@ -1,5 +1,7 @@
 # M-Theater Website
 
+![M-Theater](https://telegra.ph/file/7e85ba5830cd87d06a64d.jpg)
+
 M-Theater Website is a PHP-based application that allows users to book movie tickets online. The site features a database-driven system for managing movies, showtimes, and bookings. This project was created for educational purposes to learn how to work with PHP, HTML, and manage a database.
 
 ## Features
